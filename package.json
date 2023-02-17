@@ -17,5 +17,19 @@
         "path": "./themes/theo-swarg-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "Theoraclenyt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ishesensei/theo-swarg-dark"
+  },
+  "keywords": [
+    "theme",
+    "themes",
+    "theo",
+    "ishesensei",
+    "theoraclenyt",
+    "theo-swarg-dark",
+    "theo swarg dark"
+  ]
 }
