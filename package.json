@@ -1,0 +1,21 @@
+{
+  "name": "theo-swarg-dark",
+  "displayName": "Theo-SwarG-Dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theo-swarg-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theo-swarg-dark-color-theme.json"
+      }
+    ]
+  }
+}
